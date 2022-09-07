@@ -34,7 +34,7 @@ Awards
 
 GitHub projects
 ======
-- Quantum Sentence Transformer: project I developed while doing research at NTT Data. This model leverages parametrized circuits and hybrid classical-quantum transfer learning to come up with meaningful sentence representations. All code uses Pennylane and Sentence Transformers.
-- Discrete Path Transform: 
-- ParaconsistentLIB
-- pyGAMESS-US
+- [Quantum Sentence Transformer](https://github.com/jogisuda/QuantumSentenceTransformer): This project aims to shed light on Quantum Natural Language Processing. The model leverages parametrized circuits and [hybrid classical-quantum transfer learning](https://arxiv.org/abs/1912.08278) to come up with meaningful sentence representations. All code uses Pennylane and Sentence Transformers.
+- [Discrete Path Transform](https://github.com/jogisuda/Discrete-Path-Transform): code for the DPT, developed jointly with the Signal Processing lab at UNESP.
+- [ParaconsistentLIB](https://github.com/jogisuda/paraconsistentLIB) - paraconsistent logic-based feature engineering.
+- [pyGAMESS-DS](https://github.com/jogisuda/pyGAMESS-DS) - automated retrieval of main molecular informations from GAMESS-US, like geometry-optimized coordinates, Gibbs energy corrections, net charges, etc.
