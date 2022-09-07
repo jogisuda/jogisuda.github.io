@@ -1,7 +1,6 @@
 ---
 title: "Corneal Tomography Multivariate Index (CTMVI) effectively distinguishes healthy corneas from those susceptible to ectasia"
 collection: publications
-permalink: /publication/
 excerpt: 'Undergraduate research dissertation at UNESP. A novel index for diagnosis of Keratoconus was proposed, which we called Corneal Tomography Multivariate Index (CTMVI). It uses [Paraconsistent Feature Engineering](https://ieeexplore.ieee.org/document/8588433) and Support-Vector Machines to differentiate between healthy and pathological patients, potentially subclinical.'
 date: September 2021
 venue: 'Elsevier Biomedical Signal Processing and Control'
