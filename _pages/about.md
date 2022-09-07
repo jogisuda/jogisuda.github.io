@@ -31,3 +31,10 @@ Awards
 🥈 Silver medal - Brazilian Astronomy Olympiad - 2014
 
 🏆 Selected to the final stage to represent the Brazilian Team in the International Olympiad of Astronomy and Astrophysics - 2015
+
+GitHub projects
+======
+- Quantum Sentence Transformer: project I developed while doing research at NTT Data. This model leverages parametrized circuits and hybrid classical-quantum transfer learning to come up with meaningful sentence representations. All code uses Pennylane and Sentence Transformers.
+- Discrete Path Transform: 
+- ParaconsistentLIB
+- pyGAMESS-US
