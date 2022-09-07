@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a MSc student at the São Paulo State University (UNESP), and also working with Deep Learning at CK-12 Foundation, with focus on multimodal representation learning and Natural Language Processing.
 
 Academic bio
