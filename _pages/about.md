@@ -8,16 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning R&D Engineer at CK-12 Foundation, where I currently work with multimodal representation learning problems. Before, I was a Data Scientist at NTT Data Brazil, where I first started working with Natural Language Processing, and moved on to investigations in Quantum Machine Learning for Transformer-based models. There, I developed the Quantum Sentence Transformer, which leverages transfer learning using parametrized circuits for representation learning of sentences. 
-
-
-Still during that time at NTT, together with my director, Lluis Quiles Ardila, and in partnership with my supervisor at UNESP (São Paulo State University), Dr. Felipe Fernandes Fanchini – researcher and professor of Quantum Computing, we began the foundation of Quantum Computing in the Brazilian branch of NTT Data. For participating in the foundation and for my work in Quantum NLP, I received two awards – listed in details below in my CV. 
- 
-
-For my academic background, I’m a bachelor in Computer Science at UNESP, and currently about to defend my MSc dissertation in Quantum Machine Learning & Signal Processing. My main research interests now are in Geometric Deep Learning for Quantum ML. 
-
-
-I am very passionate for learning and for challenges, and I have also won multiple scientific olympiads during my High School (listed below). In my spare time, I enjoy going out with my family, and good barbequeues with my friends.
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
