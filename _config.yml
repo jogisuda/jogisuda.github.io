@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jogi Suda"
 title_separator          : "-"
 name                     : &name "Jogi Suda"
-description              : &description "Researcher & Machine Learning Engineer"
+description              : &description "MSc Student Researcher & Machine Learning Engineer"
 url                      : https://jogisuda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jogi Suda Neto"
   avatar           : "jogi.jpg"
-  bio              : "Researcher & Machine Learning Engineer"
+  bio              : "MSc Student Researcher & Machine Learning Engineer"
   location         : Brazil
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jogi-suda-792a97190/"
+  linkedin         : "jogi-suda-792a97190/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
