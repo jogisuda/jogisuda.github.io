@@ -21,7 +21,7 @@ Work experience
   * Was also supervised previously by [Dr. Li Deng](https://ieeexplore.ieee.org/author/37271500200).
 
 * Mar/2021 - jun/2022: Data scientist at NTT Data
-  * Besides the traditional data science work, my main contributions were the investigations on Quantum Natural Language processing with [Prof. Felipe Fanchini](https://scholar.google.com/citations?user=vMzT1bUAAAAJ&hl=pt-BR), where we developed the [Quantum Sentence Transformer](https://github.com/jogisuda/QuantumSentenceTransformer).
+  * Besides the traditional data science work, my main contributions were the investigations on Quantum Natural Language processing with Fanchini, where we developed the [Quantum Sentence Transformer](https://github.com/jogisuda/QuantumSentenceTransformer).
   
 Skills
 ======
