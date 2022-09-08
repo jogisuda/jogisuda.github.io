@@ -5,5 +5,5 @@ permalink: /publication/Wavelets
 excerpt: 'Informative paper, joint collaboration with Signal Processing lab at UNESP.'
 date: October 2020
 venue: 'International Journal of Wavelets Multiresolution and Information Processing'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Guido, R. C., Pedroso, F., Furlan, A., Contreras, R. C., Caobianco, L. G., & Neto, J. S. (2020)'
 ---
