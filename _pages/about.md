@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc student at the São Paulo State University (UNESP), and also working with Deep Learning at the CK-12 Foundation, with focus on multimodal representation learning and Natural Language Processing.
+I'm a MSc student at São Paulo State University (UNESP), also working with Deep Learning at the CK-12 Foundation, with focus on multimodal representation learning and Natural Language Processing.
 
 Academic bio
 ======
-My current research focuses on Quantum Computing for biomedical applications. Specifically, my work focuses on detecting parkinsonian speech using Quantum Neural Networks, considering both classical and also nonlinear measures from speech.
+My current research focuses on exploring Quantum Computing for biomedical applications, specifically on parkinsonian speech detection using Quantum Neural Networks, considering both classical and nonlinear features. I am very honored to be advised by Prof. Rodrigo Capobianco Guido and Prof. Felipe Fanchini, both of which have greatly helped me grow as a researcher.
 
-Recently, I've become very interested in Geometric Deep Learning for Quantum Computing, specifically on understanding how quantum models exploit Geometric priors in data from the viewpoint of groups and symmetries. Other areas of interest for me are Graphs Neural Networks & Multimodal Representation Learning.
+More recently, I've been very interested on the mathematical foundations of Quantum Machine Learning, with focus on group-theoretic representation of geometric priors on quantum models. Other areas of interest for me are Graphs Neural Networks & Multimodal Representation Learning.
+
+Before this, I graduated in 2019 as a Bachelor in Computer Science at UNESP, and in my dissertation I used [Paraconsistent Feature Engineering](https://ieeexplore.ieee.org/document/8588433) and Machine Learning for the development of a novel index for diagnosis of Keratoconus - both clinical and subclinical.
 
 Awards
 ======
