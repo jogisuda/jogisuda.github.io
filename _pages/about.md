@@ -14,7 +14,7 @@ Academic bio
 ======
 My current research focuses on exploring Quantum Computing for biomedical applications, specifically on parkinsonian speech detection using Quantum Neural Networks, considering both classical and nonlinear features. I am very honored to be advised by Prof. [Rodrigo Capobianco Guido](https://www.ibilce.unesp.br/#!/departamentos/cienc-comp-estatistica/docentes/rodrigo-capobianco-guido/) and Prof. [Felipe Fanchini](https://scholar.google.com/citations?user=vMzT1bUAAAAJ), both of which have greatly helped me grow as a researcher.
 
-More recently, I've been very interested on the mathematical foundations of Quantum Machine Learning, with focus on group-theoretic representation of geometric priors on quantum models. Other areas of interest for me are Graphs Neural Networks & Multimodal Representation Learning.
+More recently, I've been very interested on the mathematical foundations of Quantum Machine Learning, with focus on group-theoretic representation of geometric priors on quantum models. Other areas of interest for me are Graphs Neural Networks & Deep Learning Theory.
 
 Before this, I graduated in 2019 as a Bachelor in Computer Science at UNESP, and in my dissertation I used [Paraconsistent Feature Engineering](https://ieeexplore.ieee.org/document/8588433) and Machine Learning for the development of a novel index for diagnosis of Keratoconus - both clinical and subclinical.
 
