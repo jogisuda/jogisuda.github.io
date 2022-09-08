@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHubA, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, São Paulo State University, 2019
+* M.S. in Computer Science, São Paulo State University: expected graduation - 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep/2021 - currently: Machine Learning R&D Engineer at the CK-12 Foundation
+  * Currently working with multimodal representation learning.
+  * Was also suepervised previously by [Dr. Li Deng](https://ieeexplore.ieee.org/author/37271500200).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar/2021 - jun/2022: Data scientist at NTT Data
+  * Worked mainly on explorations of Quantum Natural Language processing, developing the [Quantum Sentence Transformer](https://github.com/jogisuda/QuantumSentenceTransformer).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantum Computing
+* Deep Learning
+  * PyTorch
+  * Tensorflow/Keras
+* Signal Processing
+* Data Analysis
+* GitHub
+* Linux
 
 Publications
 ======
@@ -42,18 +40,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
