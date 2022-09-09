@@ -26,6 +26,7 @@ Work experience
 Skills
 ======
 * Quantum Computing
+* Natural Language Processing
 * Deep Learning
   * PyTorch
   * Tensorflow/Keras
