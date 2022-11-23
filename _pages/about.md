@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MSc student at São Paulo State University (UNESP), also working with Deep Learning at the CK-12 Foundation, with focus on multimodal representation learning and Natural Language Processing.
+I'm a MSc student at São Paulo State University (UNESP) & Machine Learning R&D Engineer at CK-12 Foundation.
 
 Academic bio
 ======
-My current research focuses on exploring Quantum Computing for biomedical applications, specifically on parkinsonian speech detection using Quantum Neural Networks, considering both classical and nonlinear features. I am very honored to be advised by Prof. [Rodrigo Capobianco Guido](https://www.ibilce.unesp.br/#!/departamentos/cienc-comp-estatistica/docentes/rodrigo-capobianco-guido/) and Prof. [Felipe Fanchini](https://scholar.google.com/citations?user=vMzT1bUAAAAJ), both of which have greatly helped me grow as a researcher.
-
-More recently, I've been very interested on the mathematical foundations of Quantum Machine Learning, with focus on group-theoretic representation of geometric priors on quantum models. Other areas of interest for me are Graphs Neural Networks & Deep Learning Theory.
+I'm very interested on the mathematical foundations of Geometric Deep Learning & Quantum Machine Learning. In my research, I'm developing an equivariant quantum neural network, and I'm also very interested in its applications to physics problems that may benefit from the shared symmetrics priors as inductive biases. I am very honored to be advised by Prof. [Rodrigo Capobianco Guido](https://www.ibilce.unesp.br/#!/departamentos/cienc-comp-estatistica/docentes/rodrigo-capobianco-guido/) and Prof. [Felipe Fanchini](https://scholar.google.com/citations?user=vMzT1bUAAAAJ), both of which have greatly helped me grow in my path.
 
 Before this, I graduated in 2019 as a Bachelor in Computer Science at UNESP, and in my dissertation I used [Paraconsistent Feature Engineering](https://ieeexplore.ieee.org/document/8588433) and Machine Learning for the development of a novel index for diagnosis of Keratoconus - both clinical and subclinical.
 
