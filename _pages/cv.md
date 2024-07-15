@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, São Paulo State University, 2019
-* M.S. in Computer Science, São Paulo State University: expected graduation in 2023
+* M.S. in Computer Science, São Paulo State University, 2023
 
 Work experience
 ======
