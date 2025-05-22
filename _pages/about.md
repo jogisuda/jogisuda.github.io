@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Scientist with a MSc at the São Paulo State University (UNESP), where I studied Quantum Machine Learning (QML). Professionally, I also work as a Machine Learning R&D Engineer at the CK-12 Foundation.
-
-Academic bio & interests
-======
-As an undergrad, I first started working with classical ML for keratoconus subclinical detection. In my masters, I moved on to QML, still motivated by the medical field - I showed how quantum models can be used to detect Parkinson's disease through the speech. After this, I progressively grew interest in the idea of group-equivariant/invariant QML. If you wonder what that is, think of the classical case of CNNs: we know that kernel parameter sharing naturally causes translation equivariance, while pooling gives invariance. We now have the same for parameterized quantum circuits: this area is being known as Geometric QML (GQML)... and it is very exciting! After all, which kinds of symmetries may be naturally incorporated into quantum models, showcasing a better inductive bias over classical architectures? Although we don't have an exact answer, there is an exciting, and potential application for this: Particle Physics! 
-
-I am very honored to have been advised by both Prof. [Rodrigo Capobianco Guido](https://www.ibilce.unesp.br/#!/departamentos/cienc-comp-estatistica/docentes/rodrigo-capobianco-guido/) and Prof. [Felipe Fanchini](https://scholar.google.com/citations?user=vMzT1bUAAAAJ), both of which have greatly helped me grow in my path.
+I'm a Physics PhD student at CERN. My main research interests involve the study of symmetry-preserving quantum machine learning for particle physics, graph models for tagging, anomaly detection, etc. I'm also interested in quantum optimization problems. I also wrote the first Brazilian book about QML, free and publicly available.
 
 Awards
 ======
