@@ -11,25 +11,20 @@ redirect_from:
 
 Education
 ======
+* PhD. in Physics, CERN - currently
 * B.S. in Computer Science, São Paulo State University, 2019
 * M.S. in Computer Science, São Paulo State University, 2023
 
 Work experience
 ======
-* Sep/2021 - currently: Machine Learning R&D Engineer at the CK-12 Foundation
-  * Currently working with multimodal representation learning.
-  * Was also supervised previously by [Dr. Li Deng](https://ieeexplore.ieee.org/author/37271500200).
+* Sep/2021 - May/2025: Machine Learning R&D Engineer at the CK-12 Foundation
 
 * Mar/2021 - jun/2022: Data scientist at NTT Data
-  * Besides the traditional data science work, my main contributions were the investigations on Quantum Natural Language processing with Prof. [Felipe Fanchini](https://scholar.google.com/citations?user=vMzT1bUAAAAJ), where we developed the [Quantum Sentence Transformer](https://github.com/jogisuda/QuantumSentenceTransformer).
   
 Skills
 ======
 * Quantum Computing
-* Natural Language Processing
 * Deep Learning
-  * PyTorch
-  * Tensorflow/Keras
 * Signal Processing
 * Data Analysis
 * GitHub
