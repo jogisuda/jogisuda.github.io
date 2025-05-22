@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Physics PhD student at CERN. My main research interests involve the study of symmetry-preserving quantum machine learning for particle physics, graph models for tagging, anomaly detection, etc. I'm also interested in quantum optimization problems. I also wrote the first Brazilian book about QML, free and publicly available.
+I'm a Physics PhD student at CERN. I wrote the first Brazilian book about Quantum Machine Learning (QML), [free and publicly available](https://github.com/jogisuda/Aprendizado-de-Maquina-Quantica). My main research interests involve the study of symmetry-preserving QML for High-Energy Physics applications, like tagging, anomaly detection, etc. I'm also interested in quantum optimization problems.
 
 Awards
 ======
